@@ -1,2 +1,2 @@
 # projetosdev
- projetos do curso de full tack da dev media
+ Olá! Repositorio criado para o curso de fulltack da dev media
