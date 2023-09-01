@@ -1,1 +1,1 @@
-Esse é um exercicio do curso deva media de uma pagina hmtl utilizando css.
+Esse é um exercicio do curso dev media de uma pagina hmtl. utilizando css.
